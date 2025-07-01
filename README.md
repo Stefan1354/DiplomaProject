@@ -8,7 +8,11 @@ In the above 3 folders is the code for my thesis on the topic **"Design and cont
   <img src="images/Picture3.jpg" style="height: 420px;">
 </p>
 
-
+<p align="center">
+  <img src="images/Picture4.jpg" style="height: 420px; margin-right: 10px;">
+  <img src="images/Picture5.jpg" style="height: 420px; margin-right: 10px;">
+  <img src="images/Picture6.jpg" style="height: 420px;">
+</p>
 
 ![image](https://github.com/user-attachments/assets/8999f914-cb3d-4f68-bca2-20ae10c6b251) ![image](https://github.com/user-attachments/assets/2f101850-ea25-4a3a-9831-288edc417284) ![image](https://github.com/user-attachments/assets/da19a6e0-cf41-402c-9521-0368de9d999e)
 
