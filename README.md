@@ -3,9 +3,9 @@
 In the above 3 folders is the code for my thesis on the topic **"Design and control of a mobile robot"**
 
 <p align="center">
-  <img src="images/Picture1.jpg" style="height: 330px; margin-right: 10px;">
-  <img src="images/Picture2.jpg" style="height: 330px; margin-right: 10px;">
-  <img src="images/Picture3.jpg" style="height: 330px;">
+  <img src="images/Picture1.jpg" style="height: 440px; margin-right: 10px;">
+  <img src="images/Picture2.jpg" style="height: 440px; margin-right: 10px;">
+  <img src="images/Picture3.jpg" style="height: 440px;">
 </p>
 
 
