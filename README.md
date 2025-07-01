@@ -2,6 +2,12 @@
 
 In the above 3 folders is the code for my thesis on the topic **"Design and control of a mobile robot"**
 
+<p align="center">
+  <img src="images/Picture1.jpg" width="30%" />
+  <img src="images/Picture2.jpg" width="30%" />
+  <img src="images/Picture3.jpg" width="30%" />
+</p>
+
 ![image](https://github.com/user-attachments/assets/8999f914-cb3d-4f68-bca2-20ae10c6b251) ![image](https://github.com/user-attachments/assets/2f101850-ea25-4a3a-9831-288edc417284) ![image](https://github.com/user-attachments/assets/da19a6e0-cf41-402c-9521-0368de9d999e)
 
 
